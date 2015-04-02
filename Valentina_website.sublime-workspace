@@ -1,0 +1,2006 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"y-",
+				"ovy-s	overflow-y: scroll;"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"tex",
+				"textarea  (element)"
+			],
+			[
+				"a",
+				"scroll  (value)"
+			],
+			[
+				"y",
+				"ovy-h	overflow-y: hidden;"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"form",
+				"form-gray"
+			],
+			[
+				"inl",
+				"include	@include"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"cla",
+				"clear	Attr"
+			],
+			[
+				"to",
+				"top	top"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"primary",
+				"primary-color"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"inclu",
+				"include	+include - Sass syntax"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"overflow",
+				"overflow-y:   (property)"
+			],
+			[
+				"primary-",
+				"primary-color-dkr"
+			],
+			[
+				"pr",
+				"primary-color-dkr"
+			],
+			[
+				"spac",
+				"letter-spacing"
+			],
+			[
+				"prmi",
+				"primary-color-dkr"
+			],
+			[
+				"prima",
+				"primary-color-dkr"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"sty",
+				"style=  (attribute)"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"form-s",
+				"form-section"
+			],
+			[
+				"dk",
+				"dk-grey"
+			],
+			[
+				"includ",
+				"include	@include"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"clas",
+				"class	Attr"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"row",
+				"rows=  (attribute)"
+			],
+			[
+				"font-w",
+				"font-weight:   (property)"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"div",
+				"divider"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"class",
+				"class=  (attribute)"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"par",
+				"param"
+			],
+			[
+				"pre",
+				"pre  (element)"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"letter",
+				"letter-spacing"
+			],
+			[
+				"lett",
+				"letter-spacing"
+			],
+			[
+				"background-image",
+				"background-image:   (property)"
+			],
+			[
+				"span",
+				"span4"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"ng",
+				"ng-select	AngularJS"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"in",
+				"input	input - checkbox"
+			],
+			[
+				"col",
+				"col1"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"im",
+				"border-image"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"drew",
+				"drew_head.png	w:73 h:89"
+			],
+			[
+				"mas",
+				"masthead.png	w:960 h:103"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"clea",
+				"clear:   (property)"
+			],
+			[
+				"inc",
+				"include	@include"
+			],
+			[
+				"do",
+				"doc_hat.png	w:250 h:214"
+			],
+			[
+				"pla",
+				"placeholder_small.png	w:250 h:250"
+			],
+			[
+				"email",
+				"email_videogram.jpg	w:291 h:328"
+			],
+			[
+				"release",
+				"realease_card_path.png	w:134 h:447"
+			],
+			[
+				"img",
+				"img/"
+			],
+			[
+				"ema",
+				"email_video_visitation.png	w:273 h:215"
+			],
+			[
+				"inmate",
+				"inmate_kiosk_music_album.jpg	w:447 h:343"
+			],
+			[
+				"seconda",
+				"secondary2"
+			],
+			[
+				"aq",
+				"aqua50"
+			],
+			[
+				"aqua",
+				"aqua75"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"smoke",
+				"smoke75"
+			],
+			[
+				"ligh",
+				"lighten	sass_funcation"
+			],
+			[
+				"aqu",
+				"aqua"
+			],
+			[
+				"list",
+				"list	list-style-type"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"light",
+				"lighten	sass_funcation"
+			],
+			[
+				"hsl",
+				"hsla	hsla()"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"con",
+				"configure"
+			],
+			[
+				"d",
+				"dir	directory()"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"name",
+				"name=  (attribute)"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"t",
+				"top:   (property)"
+			],
+			[
+				"lef",
+				"left:   (property)"
+			],
+			[
+				"id",
+				"id=  (attribute)"
+			],
+			[
+				"argin",
+				"margin"
+			],
+			[
+				"copy",
+				"copy-bold"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"lin",
+				"letter-spacing"
+			],
+			[
+				"Art",
+				"Artwork"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"M",
+				"Micropost"
+			],
+			[
+				"mi",
+				"Microposts"
+			],
+			[
+				"des",
+				"describe"
+			],
+			[
+				"feed",
+				"feed_items"
+			],
+			[
+				"micr",
+				"micropost"
+			],
+			[
+				"be_",
+				"be_true"
+			],
+			[
+				"micropost",
+				"micropost"
+			],
+			[
+				"follow",
+				"followed"
+			],
+			[
+				"find_by_",
+				"find_by_followed_id"
+			],
+			[
+				"foll",
+				"followed"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"case ti",
+				"Convert Case: Title Case"
+			],
+			[
+				"case tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"case",
+				"Convert Case: Swap Case"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn css",
+				"Set Syntax: SCSS"
+			],
+			[
+				"syn 5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"pack u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"LOWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"syn ht5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"key bin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"prefe key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"side",
+				"Side Bar: Reveal File"
+			],
+			[
+				"sidebar	",
+				"Side Bar: Enable Syncing"
+			],
+			[
+				"side syn",
+				"Side Bar: Enable Syncing"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"prefer",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - Default"
+			],
+			[
+				"case lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML5"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"alig",
+				"Snippet: vertical-align"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"beaut ",
+				"BeautifyRuby"
+			],
+			[
+				"pak rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"angular",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"CAS LO",
+				"Convert Case: Lower Case"
+			],
+			[
+				"case upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"whi",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"whit",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"white",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"case sente",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"case sent",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"case s",
+				"Convert Case: Title Case"
+			],
+			[
+				"case sen",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"pack isn",
+				"Package Control: Install Package"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"cas",
+				"Convert Case: Title Case"
+			],
+			[
+				"packa re",
+				"Package Control: Remove Package"
+			],
+			[
+				"synt",
+				"Set Syntax: HTML5"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"packages",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"pack isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack angul",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Pack Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa in",
+				"Package Control: Install Package"
+			],
+			[
+				"collor",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"syn js",
+				"Set Syntax: JSON"
+			],
+			[
+				"pack res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packag",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"insta ",
+				"Package Control: Install Package"
+			],
+			[
+				"brow ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"prefs",
+				"Preferences: Settings - Default"
+			],
+			[
+				"synt sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"pef pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pre",
+				"Preferences: Browse Packages"
+			],
+			[
+				"media",
+				"Emmet: Update Image Size"
+			],
+			[
+				"quer",
+				"Bracketeer: Insert square brackets"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sy",
+				"Set Syntax: HTML5"
+			],
+			[
+				"pa inst",
+				"Package Control: Install Package"
+			],
+			[
+				"a inst",
+				"Package Control: Install Package"
+			],
+			[
+				"reply ",
+				"SublimeREPL: Python"
+			],
+			[
+				"repl rub",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"pa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa oins",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"pref ",
+				"Project: Refresh Folders"
+			],
+			[
+				"syn scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"p ins",
+				"Package Control: Install Package"
+			],
+			[
+				"p is",
+				"Package Control: Install Package"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"Pre",
+				"Preferences: Settings - User"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"synta",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"instal pac",
+				"Package Control: Install Package"
+			],
+			[
+				"font-weight",
+				"Snippet: font-weight:normal"
+			],
+			[
+				"packag ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"offse",
+				"Snippet: outline-offset"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"packageinst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"heade",
+				"Snippet: <header>"
+			],
+			[
+				"synt css",
+				"Set Syntax: CSS"
+			],
+			[
+				"synt h5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syntax",
+				"Set Syntax: HTML5"
+			],
+			[
+				"html haml",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"h5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML5"
+			],
+			[
+				"synt htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"ali",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 610.0
+	},
+	"console":
+	{
+		"height": 168.0,
+		"history":
+		[
+			"clear",
+			"cleaer",
+			"a=b",
+			"a*2",
+			"a=2",
+			"ls",
+			"iterm",
+			"open",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/shop.html.erb",
+		"/Users/haperd/val old site/shop.html",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/img/buttons/_notes/shop-btn-hover.png.mno",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/css/styles.css",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/contact.html.erb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/_navigation.erb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/sass/styles.scss",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/_social.erb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/layouts/layout.erb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/css/normalize.css",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/index.html.erb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/css/main.css",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/flower.html.erb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/css/screen.css",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/sass/screen.scss",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/config.rb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/gallery.html.erb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/digital_artwork.html.erb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/patterns.html.erb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/about.html.erb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source/artist_statement.html.erb",
+		"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/Gemfile",
+		"/Users/haperd/Desktop/Fireworks Recovered/Jan 10, 2014, 4.46.24 PM/Civic_Inspector_Mini-iPad-mockup2.fw.png",
+		"/Users/haperd/Documents/CivicInc/Civic-Inspector/Civic-Inspector/Civic.Inspector.UI/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/argument_parser.js",
+		"/Users/haperd/Documents/CivicInc/Civic-Inspector/Civic-Inspector/Civic.Inspector.UI/node_modules/grunt-contrib-clean/AUTHORS",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/partials/_forms.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/partials/_base.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/saveChanges.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/removeEstablishment.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/editEstablishment.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/addEstablishment.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/addBuilding.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/editAddress.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/addPrimaryAddress.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/addBuildingAtNewAddress.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/editOwners.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/ownerHistory.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/comments.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/auditLog.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/dialogs/parcelGenalogy.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/forms.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/scripts/app.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/templates/parcel.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/partials/_colors.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/partials/_structures.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/main.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/land.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/fonts/FontAwesome.otf",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/partials/search-bar.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/reports.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/lib/bootstrap.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/angular/bower.json",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/search-results.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/mainnav.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/map.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/main.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/templates/add-new-address.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/search-results.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/partials/_navbar.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/partials/_search.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/CNAME",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/modules/_mixins.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/examples/navbar/navbar.css",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/ng-grid/src/less/colors.less",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/js/collapse.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/angular-ui-router/component.json",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/index.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/_forms.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/_search.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/_search-results.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/_base.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/_mixins.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/ng-grid/src/classes/searchProvider.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/_navbar.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/Gruntfile.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/Gruntfile.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/transports/htmlfile.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/docs-assets/css/pygments-manni.css",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/scripts/controllers/main.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/experiments.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/font-awesome/css/font-awesome.min.css",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/angular-ui-router/Gruntfile.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/admin.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/partials/footer.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/partials/footernav.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/_includes/nav-about.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/_includes/nav-main.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/_includes/nav-javascript.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/_includes/nav-customize.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/_includes/nav-css.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/_includes/nav-components.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/ng-grid/src/navigation.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/ng-grid/ng-grid.css",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/partials/list-status-column.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/partials/list-status-icon-column.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/list.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/fieldset.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/examples/sticky-footer-navbar/sticky-footer-navbar.css",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/fonts/glyphicons-halflings-regular.svg",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/angular-ui-router/sample/styles.css",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/spinners.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/fonts/fontawesome-webfont.svg",
+		"/Users/haperd/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/angular-sanitize/angular-sanitize.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land-management.sublime-project",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/scripts/templates.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/media-query.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/experiments.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/testing.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/rubbish.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/.buildignore",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/css.html",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/examples/navbar-fixed-top/navbar-fixed-top.css",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/ng-grid/scripts/server.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/angular-ui-router/sample/states.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/styles/search.scss",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/views/aaa.html",
+		"/Users/haperd/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/Regular Expressions.cheatsheet",
+		"/Users/haperd/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/Sublime Text.cheatsheet",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/angular-bootstrap/bower.json",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/json3/lib/json3.min.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/es5-shim/tests/lib/json2.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/json3/lib/json3.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/angular-scenario/jstd-scenario-adapter.js",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/bower_components/bootstrap-sass/javascript.html",
+		"/Users/haperd/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/Git.cheatsheet",
+		"/Users/haperd/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/Bash.cheatsheet",
+		"/Users/haperd/Documents/CivicInc/land-management/source/Civic.LM.UI/app/land/parcel_old.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			"/Users/haperd/Dropbox/Valentina/valentina_website/valentinadesign/source",
+			"<open folders>",
+			"/Users/haperd/Documents/CivicInc/land-management/source/",
+			"/Users/haperd/Documents/CivicInc/land-management/source/app/",
+			"/Users/haperd/Documents/CivicInc/land-management/source/",
+			"/Users/haperd/Documents/CivicInc/land-management/source/app/",
+			"/Users/haperd/Documents/CivicInc/land-management/source",
+			"<open files>",
+			"/Users/drew/Dropbox/Work/drewharper/drewharper.com/source",
+			"*.erb",
+			"*.html",
+			"",
+			"url(../img/",
+			"/Users/drew/Documents/Work/DrewHarper/drewharper.com/ror/sample_app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"decal",
+			"</a></div></td>",
+			"<div align=\"center\">",
+			"stylesheet_link_tag",
+			"inner",
+			"innerwrapper",
+			".content",
+			"left_col",
+			"contact",
+			"left_col",
+			"left",
+			"contact",
+			"<td>\n        <input",
+			"></td>",
+			"<td>",
+			"little",
+			"amelia",
+			"love",
+			"gallery",
+			"patt_path",
+			"patt_title",
+			"-",
+			"_",
+			"amelia",
+			"rel=\"lightbox[<%=patt_title%>]\"",
+			"</a>\n             <a",
+			"sm.jpg\">",
+			"jpg\">",
+			"rel=\"lightbox[<%=oa_title%>]\"",
+			"shower_of_joy",
+			"ruby",
+			"phileus_frog",
+			"milo",
+			"lovebirds",
+			"little_fish",
+			"humming_heaven",
+			"hippotastique",
+			"hello_person",
+			"frisky_christy",
+			"emaline",
+			"barkysimeto",
+			"ampersand",
+			"stella",
+			"sofia",
+			"rachel",
+			"pods_and_flowers",
+			"marching_elephants",
+			"lovebirds",
+			"folkbirds",
+			"doodles_garden",
+			"butterflies",
+			"birds-with-flowers",
+			"birds_in_the_garden",
+			"i_spy",
+			"XXXXXXXXXXXXXX",
+			"07",
+			"sun",
+			"camera\"><a href=\"#/mapView\">&nbsp;</a>",
+			"camera\"><a href=\"#/",
+			"camera\">&nbsp;",
+			"16px 10px",
+			"unfriendly",
+			"</a>-1",
+			"p>",
+			"p",
+			"Storm Grate # CB123456",
+			"Work Order # 123456",
+			"disabled ",
+			"12px",
+			"0.05rem",
+			"05",
+			"3.4rem 1rem .25rem 1rem",
+			"background-image: url('../images/friendly.png');",
+			"images/",
+			"darken($primary-color,10)",
+			"            text-shadow: 1px 1px darken($primary-color,20);\n",
+			"            letter-spacing: 0.05rem;\n",
+			"button",
+			"btn-xlarge ",
+			"disabled",
+			"pull-right disabled",
+			"dispatchBtn",
+			"<div class=\"row\">",
+			"			<div class=\"span8\">\n				<h1>Work Order # 123456</h1>\n				<p>16/63 Completed</p>\n			</div>\n			<div class=\"span4\">\n				<button class=\"btn btn-large pull-right dispatchBtn disabled\">Dispatch</button>\n			</div>\n",
+			"<div class=\"span8\">\n				<h1>Work Order # 123456</h1>\n				<p>16/63 Completed</p>\n			</div>\n			<div class=\"span4\">\n				<button class=\"btn btn-large pull-right dispatchBtn disabled\">Dispatch</button>\n			</div>",
+			">Dispatch",
+			"				<div class=\"dispatchBtn disabled\"></div>\n",
+			"				<div class=\"\"></div>\n",
+			"dispatchBtn disabled",
+			"dispatchBtn",
+			"span6",
+			"<div class=\"span6\">\n					<h1>Work Order # 123456</h1>\n					<p>16/63 Completed</p>\n				</div>\n				<div class=\"span3\">\n					<button class=\"btn btn-large pull-right\">Dispatch</button>\n					<div class=\"dispatchBtn disabled\"></div>\n				</div>",
+			"<div class=\"row\">\n				<div class=\"span6\">",
+			"<div class=\"span4\">\n					<button clas",
+			"<div class=\"span8\">\n					<h1>Work Order",
+			"</div>\n				<div class=\"dispatchBtn disabled\"></div>",
+			"span12",
+			"<div class=\"span8\">\n				<h1>Work Order # 123456</h1>\n				<p>16/63 Completed</p>\n			</div>\n			<div class=\"span12\">\n				<button class=\"btn btn-large\">Dispatch</button>\n			</div>\n			<div class=\"dispatchBtn disabled\"></div>",
+			"<div class=\"span12\">\n				<button class=\"btn",
+			"workOrder",
+			"<h1>Work Order # 123456</h1>\n			<p>16/63 Completed</p>",
+			"teriiary",
+			"secondary",
+			"#adefff",
+			"#ffffff",
+			"background: beige;\n    border: 1px black solid;\n    display: inline-block;",
+			"0",
+			"commen",
+			"placeholder",
+			"Edit Owner(s)",
+			"first",
+			"form",
+			"moreOwnerHistory",
+			"nashville",
+			"lmOwnerContent",
+			"history",
+			"id",
+			"moreOwnerHistory",
+			"ownerHistu",
+			"OWNER MODEL",
+			"<td>OWNER",
+			"<td>ACREAGE",
+			"<td>APN",
+			"col-md-offset-2",
+			"row",
+			"more",
+			"OwnerHistory",
+			"table"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&rsquo;",
+			"&lsquo;",
+			"&amp;",
+			"-",
+			"</h4>\n							<ul><li>",
+			"</li>\n	\n							<h3>",
+			"</h3>",
+			"<div class=\"fullwide\">",
+			"yellow",
+			"fullwide",
+			"'",
+			"-",
+			"lightbox[",
+			"<span class=\"asterisk\">",
+			".",
+			"patt_title",
+			"img src=\"img/",
+			"$grey",
+			"$orange",
+			"$purple",
+			"$grey",
+			"/img/lightbox/",
+			"/images/lightbox/",
+			"=\"img/art/",
+			"url(../img/",
+			"src=\"https://secure.campaigner.com/accountsmedia/8/83130/spacer.gif?d=1336780825632\"",
+			"spacer",
+			"\"https://secure.campaigner.com/accountsmedia/8/83130/spacer.gif?d=1336780861254\""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 134.0
+	},
+	"output.find_results":
+	{
+		"height": 316.0
+	},
+	"output.git":
+	{
+		"height": 116.0
+	},
+	"project": "Valentina_website.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sho",
+				"shop.html.erb"
+			],
+			[
+				"socil",
+				"_social.erb"
+			],
+			[
+				"nav",
+				"_navigation.erb"
+			],
+			[
+				"lay",
+				"layouts/layout.erb"
+			],
+			[
+				"main",
+				"css/main.css"
+			],
+			[
+				"ind",
+				"index.html.erb"
+			],
+			[
+				"scss",
+				"css/styles.css"
+			],
+			[
+				"contc",
+				"contact.html.erb"
+			],
+			[
+				"di",
+				"digital_artwork.html.erb"
+			],
+			[
+				"pa",
+				"patterns.html.erb"
+			],
+			[
+				"art",
+				"artist_statement.html.erb"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"form",
+				"land/views/forms.html"
+			],
+			[
+				"color",
+				"styles/partials/_colors.scss"
+			],
+			[
+				"navbar",
+				"styles/partials/_navbar.scss"
+			],
+			[
+				"navba",
+				"bower_components/bootstrap-sass/examples/navbar/navbar.css"
+			],
+			[
+				"lan",
+				"styles/land.scss"
+			],
+			[
+				"sear",
+				"styles/_search-results.scss"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"grunt",
+				"bower_components/bootstrap-sass/Gruntfile.js"
+			],
+			[
+				"exp",
+				"styles/experiments.scss"
+			],
+			[
+				"fomr",
+				"styles/_forms.scss"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"footer",
+				"land/partials/footernav.html"
+			],
+			[
+				"navar",
+				"styles/_navbar.scss"
+			],
+			[
+				"search",
+				"styles/_search.scss"
+			],
+			[
+				"parc",
+				"land/templates/parcel.html"
+			],
+			[
+				"par",
+				"land/templates/parcel.html"
+			],
+			[
+				"base",
+				"styles/_base.scss"
+			],
+			[
+				"land",
+				"styles/land.scss"
+			],
+			[
+				"rubb",
+				"styles/rubbish.scss"
+			],
+			[
+				"sea",
+				"styles/search.scss"
+			],
+			[
+				"json",
+				"bower_components/angular-bootstrap/bower.json"
+			],
+			[
+				"ap",
+				"scripts/app.js"
+			],
+			[
+				"parce",
+				"land/templates/parcel.html"
+			],
+			[
+				"map",
+				"land/views/map.html"
+			],
+			[
+				"searc",
+				"styles/search.scss"
+			],
+			[
+				"mai",
+				"styles/main.scss"
+			],
+			[
+				"landhtm",
+				"Civic.LM.UI/app/land/templates/parcel.html"
+			],
+			[
+				"main.sc",
+				"Civic.LM.UI/app/styles/main.scss"
+			],
+			[
+				"bas",
+				"Civic.LM.UI/.sass-cache/b597812d7a6abe1967f047b5d5117b41c3e8cbda/_base.scssc"
+			],
+			[
+				"inde",
+				"Civic.LM.UI/app/index.html"
+			],
+			[
+				"indehtm",
+				"Civic.LM.UI/app/index.html"
+			],
+			[
+				"navhtml",
+				"Civic.LM.UI/app/bower_components/bootstrap-sass/_includes/nav-about.html"
+			],
+			[
+				"_bas",
+				"Civic.LM.UI/app/styles/_base.scss"
+			],
+			[
+				"perm",
+				"views/permit.html"
+			],
+			[
+				"permi",
+				"styles/_permit.scss"
+			],
+			[
+				"",
+				"scripts/controllers/permit.js"
+			],
+			[
+				"test",
+				"views/tester.html"
+			],
+			[
+				"find",
+				"views/_find.html"
+			],
+			[
+				"accou",
+				"views/account.html"
+			],
+			[
+				"hell",
+				"views/partials/hello.html"
+			],
+			[
+				"main.",
+				"scripts/controllers/main.js"
+			],
+			[
+				"ont-path",
+				"bower_components/font-awesome-4.0.2/scss/_path.scss"
+			],
+			[
+				"_variables.scss",
+				"bower_components/bootstrap-sass/lib/_variables.scss"
+			],
+			[
+				"_var",
+				"bower_components/bootstrap-sass/lib/_variables.scss"
+			],
+			[
+				"div",
+				"css/fonts/osp-din/OSP-DIN-webfont.svg"
+			],
+			[
+				"dre",
+				"img/drew_harper_label.ai"
+			],
+			[
+				"head",
+				"_head.erb"
+			],
+			[
+				"quote",
+				"_quotes.erb"
+			],
+			[
+				"quot",
+				"_quotes.erb"
+			],
+			[
+				"slide",
+				"_slides.erb"
+			],
+			[
+				"norma",
+				"css/normalize.css"
+			],
+			[
+				"slides",
+				"_slides.erb"
+			],
+			[
+				"header",
+				"_head.erb"
+			],
+			[
+				"quo",
+				"_quotes.erb"
+			],
+			[
+				"flex",
+				"css/flexslider.css"
+			],
+			[
+				"js",
+				"_js_footer.erb"
+			],
+			[
+				"flexsli",
+				"css/flexslider.css"
+			],
+			[
+				"flexsl",
+				"js/vendor/jquery.flexslider.js"
+			],
+			[
+				"light",
+				"js/vendor/lightbox.js"
+			],
+			[
+				"lightb",
+				"js/vendor/lightbox.js"
+			],
+			[
+				"_foo",
+				"_footer.erb"
+			],
+			[
+				"css/fonts/",
+				"css/fonts/asap/asap.css"
+			],
+			[
+				"fonts",
+				".sass-cache/9f6f1e2bf5d2359315914b260527320812a4e697/_font-face.scssc"
+			],
+			[
+				"con",
+				"config.rb"
+			],
+			[
+				"scre",
+				"css/screen.css"
+			],
+			[
+				"confi",
+				"config.rb"
+			],
+			[
+				"flow",
+				"js/vendor/flower.js"
+			],
+			[
+				"laz",
+				"js/vendor/jquery.lazylinepainter-1.4.js"
+			],
+			[
+				"lazy",
+				"js/vendor/jquery.lazylinepainter-1.4.min.js"
+			],
+			[
+				"la",
+				"layouts/layout.erb"
+			],
+			[
+				"flower",
+				"js/vendor/flower.js"
+			],
+			[
+				"layou",
+				"layouts/layout.erb"
+			],
+			[
+				"screen.scs",
+				"scss/screen.scss"
+			],
+			[
+				"corp",
+				"_corp.erb"
+			],
+			[
+				"cont",
+				"contact.html.erb"
+			],
+			[
+				"abo",
+				"about.html.erb"
+			],
+			[
+				"about",
+				"about.html.erb"
+			],
+			[
+				"foo",
+				"_footer.erb"
+			],
+			[
+				"abou",
+				"about.html.erb"
+			],
+			[
+				"swiv",
+				"js/vendor/swivel.js"
+			],
+			[
+				"flexli",
+				"js/jquery.flexslider.js"
+			],
+			[
+				"email",
+				"email.html.erb"
+			],
+			[
+				"boot",
+				"css/bootstrap.css"
+			],
+			[
+				"styles",
+				"sass/styles.scss"
+			],
+			[
+				"patt",
+				"patterns.html.erb"
+			],
+			[
+				"patter",
+				"patterns.html.erb"
+			],
+			[
+				"orig",
+				"original_artwork.html.erb"
+			],
+			[
+				"digit",
+				"digital_artwork.html.erb"
+			],
+			[
+				"navig",
+				"_navigation.erb"
+			],
+			[
+				"ori",
+				"original_artwork.html.erb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"user_sp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"home",
+				"app/views/pages/home.html.erb"
+			],
+			[
+				"micr",
+				"spec/models/micropost_spec.rb"
+			],
+			[
+				"micropo",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"microposts",
+				"spec/controllers/microposts_controller_spec.rb"
+			],
+			[
+				"_micropost",
+				"app/views/microposts/_micropost.html.erb"
+			],
+			[
+				"_feed",
+				"app/views/shared/_feed_item.html.erb"
+			],
+			[
+				"pages_c",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"user_s",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"pages",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"_user",
+				"app/views/shared/_user_info.html.erb"
+			],
+			[
+				"microposts_contr",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"sessions_he",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"controller_spec",
+				"spec/controllers/microposts_controller_spec.rb"
+			],
+			[
+				"layout_links_spec.rb",
+				"spec/requests/layout_links_spec.rb"
+			],
+			[
+				"microposts_controller_spec",
+				"spec/controllers/microposts_controller_spec.rb"
+			],
+			[
+				"micropos",
+				"spec/models/micropost_spec.rb"
+			],
+			[
+				"feed_it",
+				"app/views/shared/_feed_item.html.erb"
+			],
+			[
+				"feed",
+				"app/views/shared/_feed.html.erb"
+			],
+			[
+				"info.h",
+				"app/views/shared/_user_info.html.erb"
+			],
+			[
+				"micro",
+				"spec/controllers/microposts_controller_spec.rb"
+			],
+			[
+				"relat",
+				"spec/models/relationship_spec.rb"
+			],
+			[
+				"create",
+				"db/migrate/20120902165300_create_relationships.rb"
+			],
+			[
+				"fact",
+				"spec/factories.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

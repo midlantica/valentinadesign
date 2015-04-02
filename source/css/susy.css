@@ -1,0 +1,9 @@
+/*#page
+  +container
+  #header, #footer
+    clear: both
+  #content
+    +span-columns(8, 12)
+  #sidebar
+    +span-columns(4 omega, 12)
+*/
