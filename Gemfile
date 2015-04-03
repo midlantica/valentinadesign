@@ -8,13 +8,8 @@ gem 'listen', '~>0.7.3'
 gem 'compass-sourcemaps', '~> 0.12.2.sourcemaps.57a186c'
 gem 'middleman-minify-html'
 
-# gem "middleman", "~>3.3.10"
-# # gem 'tilt', '~> 2.0.1'
+gem "tzinfo-data"
 
-# # New stuff
-# gem "sass"
-# gem "compass"
-# gem "susy"
-
-# # Live-reloading plugin
+# Live-reloading plugin
 # gem "middleman-livereload", "~> 3.1.0"
+

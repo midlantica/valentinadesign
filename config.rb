@@ -35,7 +35,6 @@
 # Automatic image dimensions on image_tag helper
 activate :automatic_image_sizes
 
-
 # Methods defined in the helpers block are available in templates
 # helpers do
 #   def some_helper
@@ -51,7 +50,8 @@ set :images_dir, 'img'
 
 set :partials_dir, 'partials'
 
-
+set :site_title, 'Valentina Design - Feeling Inspired'
+set :site_url, 'http://www.valentinadesign.com'
 
 #----------------------------
 
@@ -90,7 +90,7 @@ configure :build do
   # activate :cache_buster
 
   # Use relative URLs
-  activate :relative_assets
+  # activate :relative_assets
 
   # Compress PNGs after build
   # First: gem install middleman-smusher

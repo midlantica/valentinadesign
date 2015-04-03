@@ -1,36 +1,36 @@
 @import "compass";
 @import "base";
-// @import "fonts";
+@import "fonts";
 @import "modal";
 // @import "../js/galleria/themes/classic/galleria.classic.css";
 
-@include font-face("witchedregular",
-    font-files('../css/fonts/witched_font/witched-webfont.eot',
-               '../css/fonts/witched_font/witched-webfont.eot',
-               '../css/fonts/witched_font/witched-webfont.woff',
-               '../css/fonts/witched_font/witched-webfont.ttf',
-               '../css/fonts/witched_font/witched-webfont.svg#WitchedRegular'));
+// @include font-face("witchedregular",
+//     font-files('/css/fonts/witched_font/witched-webfont.eot',
+//                '/css/fonts/witched_font/witched-webfont.eot',
+//                '/css/fonts/witched_font/witched-webfont.woff',
+//                '/css/fonts/witched_font/witched-webfont.ttf',
+//                '/css/fonts/witched_font/witched-webfont.svg#WitchedRegular'));
 
-@include font-face("Register",
-    font-files('../css/fonts/register-sans/register-sans.eot',
-               '../css/fonts/register-sans/register-sans.eot',
-               '../css/fonts/register-sans/register-sans.woff',
-               '../css/fonts/register-sans/register-sans.ttf',
-               '../css/fonts/register-sans/register-sans.svg#SantanaRegular'));
+// @include font-face("Register",
+//     font-files('/css/fonts/register-sans/register-sans.eot',
+//                '/css/fonts/register-sans/register-sans.eot',
+//                '/css/fonts/register-sans/register-sans.woff',
+//                '/css/fonts/register-sans/register-sans.ttf',
+//                '/css/fonts/register-sans/register-sans.svg#SantanaRegular'));
 
-@include font-face("RegisterBold",
-    font-files('../css/fonts/register-sans-bold/register-sans-bold.eot',
-               '../css/fonts/register-sans-bold/register-sans-bold.eot',
-               '../css/fonts/register-sans-bold/register-sans-bold.woff',
-               '../css/fonts/register-sans-bold/register-sans-bold.ttf',
-               '../css/fonts/register-sans-bold/register-sans-bold.svg#SantanaBold'));
+// @include font-face("RegisterBold",
+//     font-files('/css/fonts/register-sans-bold/register-sans-bold.eot',
+//                '/css/fonts/register-sans-bold/register-sans-bold.eot',
+//                '/css/fonts/register-sans-bold/register-sans-bold.woff',
+//                '/css/fonts/register-sans-bold/register-sans-bold.ttf',
+//                '/css/fonts/register-sans-bold/register-sans-bold.svg#SantanaBold'));
 
-@include font-face("RegisterLight",
-    font-files('../css/fonts/register-sans-light/register-sans-light.eot',
-               '../css/fonts/register-sans-light/register-sans-light.eot',
-               '../css/fonts/register-sans-light/register-sans-light.woff',
-               '../css/fonts/register-sans-light/register-sans-light.ttf',
-               '../css/fonts/register-sans-light/register-sans-light.svg#SantanaRegular'));
+// @include font-face("RegisterLight",
+//     font-files('/css/fonts/register-sans-light/register-sans-light.eot',
+//                '/css/fonts/register-sans-light/register-sans-light.eot',
+//                '/css/fonts/register-sans-light/register-sans-light.woff',
+//                '/css/fonts/register-sans-light/register-sans-light.ttf',
+//                '/css/fonts/register-sans-light/register-sans-light.svg#SantanaRegular'));
 
 
 $header-font: witchedregular;
@@ -97,12 +97,13 @@ p b {
 
 
 #wrapper {
-    width: 960px;
+    width: 100%;
     margin: 0 auto;
     text-align: center;
     background-image: url('../img/white_back_patt.png');
     background-repeat: repeat-y;
     background-position: center top;
+    position: absolute;
 }
 
 #innerwrapper {
@@ -715,15 +716,15 @@ a .instagram-btn:hover {
 }
 
 #content #col_box {
-    background-image: url(img/contact_bird.png);
+    background-image: url(../img/contact_bird.png);
     background-repeat: no-repeat;
     background-position: 0 150px;
 }
 
-#content #col_box {
-  background-image: url(img/contact_bird.png);
-  background-repeat: no-repeat;
-  background-position: 0 150px; }
+// #content #col_box {
+//   background-image: url(../img/contact_bird.png);
+//   background-repeat: no-repeat;
+//   background-position: 0 150px; }
 
 
 #shop .shop-box {
