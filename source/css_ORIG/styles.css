@@ -1468,36 +1468,3 @@ a .instagram-btn:hover {
   border: none; }
 
 /* line 732, ../sass/styles.scss */
-#content #col_box {
-  background-image: url(img/contact_bird.png);
-  background-repeat: no-repeat;
-  background-position: 0 150px; }
-
-
-#shop .shop-box {
-    display:block;
-    float:left;
-    width:300px;
-    margin:0 0 1em 0
-}
-#shop #content .shop-box h4 {
-    margin:0 0 .25em 0;
-    font-size:.9em;
-    letter-spacing:.07em
-}
-#shop #content .shop-box p {
-    margin:0 0 .25em 0;
-    font-size:.9em;
-    letter-spacing:.07em
-}
-#shop .shop-box img {
-    display:block;
-    float:left;
-    margin:0 1em 0 0
-}
-#shop .shop-text {
-    width:175px;
-    display:block;
-    float:left;
-    margin:0
-}

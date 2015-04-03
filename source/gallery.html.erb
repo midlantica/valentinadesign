@@ -5,7 +5,7 @@ title: Gallery Valentina
 <div id="content">
   <h2>Original Artwork</h2>
 
-   <%= partial "gallery_nav" %>
+   <%= partial "partials/gallery_nav" %>
 
     	<!-- >>>> INSERT GALLERY HERE -->
 
@@ -14,7 +14,7 @@ title: Gallery Valentina
         <% oa_path ="img/lightbox/gallery/original_artwork/" %>
 
 	    <div id='gallery'>
-        
+
             <a href="<%=oa_path%>aaron.jpg" rel="lightbox[<%=patt_title%>]"
                           title="Aaron">
            <img src="<%=oa_path%>aaron_sm.jpg">
@@ -136,8 +136,8 @@ title: Gallery Valentina
             </a>
 
         </div>
-        
- <%= partial "social" %>
+
+ <%= partial "partials/social" %>
 
     	<!-- <<<< INSERT GALLERY HERE -->  <!-- .doc -->
 </div><!-- .welcome -->

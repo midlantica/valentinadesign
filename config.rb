@@ -6,19 +6,6 @@
 # First: gem install susy --pre
 # require 'susy'
 
-# Set this to the root of your project when deployed:
-http_path = "/"
-css_dir = "css"
-sass_dir = "sass"
-images_dir = "img"
-javascripts_dir = "js"
-
-
-# Change Compass configuration
-# compass_config do |config|
-#   config.output_style = :compact
-# end
-
 ###
 # Page options, layouts, aliases and proxies
 ###
@@ -48,6 +35,7 @@ javascripts_dir = "js"
 # Automatic image dimensions on image_tag helper
 activate :automatic_image_sizes
 
+
 # Methods defined in the helpers block are available in templates
 # helpers do
 #   def some_helper
@@ -55,14 +43,45 @@ activate :automatic_image_sizes
 #   end
 # end
 
+# set :sass_dir, 'css'
+set :scss_dir, 'css'
 set :css_dir, 'css'
 set :js_dir, 'js'
 set :images_dir, 'img'
 
+set :partials_dir, 'partials'
+
+
+
+#----------------------------
+
+#Folder settings
+relative_assets = true      #because we're not working from the root
+sass_dir = "css"    #where our .scss files are
+css_dir = "css"      #where the CSS will saved
+images_dir = "img"   #the folder with your images
+
+
+
+# You can select your preferred output style here (can be overridden via the command line):
+output_style = :expanded # After dev :compressed
+
+# To disable debugging comments that display the original location of your selectors. Uncomment:
+line_comments = true
+
+# Obviously
+preferred_syntax = :scss
+
+
+# Reload the browser automatically whenever files change
+# configure :development do
+activate :livereload
+# end
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
-  # activate :minify_css
+  activate :minify_css
 
   # Minify Javascript on build
   activate :minify_javascript
@@ -83,12 +102,8 @@ configure :build do
 
   #minify html
   activate :minify_html
-  
+
 end
-
-##########
-
-activate :livereload
 
 
 

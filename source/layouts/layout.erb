@@ -26,29 +26,45 @@
 
     <%# javascript_include_tag "vendor/flower_ani.js" %>
 
+    <link rel="shortcut icon" href="img/favicons/favicon.ico">
+    <link rel="shortcut icon" href="img/favicons/apple-touch-icon.png">
+    <link rel="shortcut icon" href="img/favicons/apple-touch-icon-precomposed.png">
+    <link rel="shortcut icon" href="img/favicons/apple-touch-icon-144x144-precomposed.png" sizes="144x144">
+    <link rel="shortcut icon" href="img/favicons/apple-touch-icon-114x114-precomposed.png" sizes="114x114">
+    <link rel="shortcut icon" href="img/favicons/apple-touch-icon-72x72-precomposed.png" sizes="72x72">
+    <link rel="shortcut icon" href="apple-touch-icon-57x57-precomposed.png" sizes="57x57">
+
+<!--     <link rel="icon" href="img/favicons/favicon@2x.png" sizes="114x114">
+    <link rel="icon" href="img/favicons/favicon.png" sizes="57x57">
+    <link rel="icon" href="img/favicons/favicon-Spotlight-iOS7@2x.png" sizes="80x80">
+    <link rel="icon" href="img/favicons/favicon-Spotlight-iOS7.png" sizes="40x40">
+    <link rel="icon" href="img/favicons/favicon-Small@2x.png" sizes="58x58">
+    <link rel="icon" href="img/favicons/favicon-Small.png" sizes="29x29">
+    <link rel="icon" href="img/favicons/favicon-Small-50.png" sizes="50x50">
+    <link rel="icon" href="img/favicons/favicon-iPad-Spotlight-iOS7@2x.png" sizes="100x100">
+    <link rel="icon" href="img/favicons/favicon-72@2x.png" sizes="152x152">
+    <link rel="icon" href="img/favicons/favicon-72.png" sizes="72x72">
+    <link rel="icon" href="img/favicons/favicon-76@2x.png" sizes="144x144">
+    <link rel="icon" href="img/favicons/favicon-76.png" sizes="76x76">
+    <link rel="icon" href="img/favicons/favicon-120.png" sizes="120x120">
+    <link rel="icon" href="img/favicons/favicon_512@2x.png" sizes="512x512">
+    <link rel="icon" href="img/favicons/favicon_512.png" sizes="512x512"> -->
+
   </head>
   <body id="<%= page_classes %>">
 
     <div id ="wrapper">
-      <%= partial "header" %>
+      <%= partial "partials/header" %>
       <div id ="innerwrapper">
 
-        <%= partial "navigation" %>
-            <%= yield %>
+        <%= partial "partials/navigation" %>
+        <%= yield %>
 
       </div><!-- <<< innerwrapper -->
-      <%= partial "footer" %>
-    </div><!-- <<< wrapper -->
 
-    <script>
-    $( document ).ready(function() {
-      $('.trigger').click(function() {
-         $('.modal-wrapper').toggleClass('');
-        $('.page-wrapper').toggleClass('blur');
-         return false;
-      });
-    });
-    </script>
+      <%= partial "partials/footer" %>
+
+    </div><!-- <<< wrapper -->
 
   </body>
 </html>

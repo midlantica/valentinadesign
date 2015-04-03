@@ -1,0 +1,18 @@
+@import 'compass';
+
+/* CORE */
+@import 'main';
+@import 'normalize';
+@import 'fonts';
+
+$purple: #906290;
+$green: #b9d54a;
+$orange: #ec9353;
+$grey: #0b2541;
+$red: red;
+$link-color: $purple;
+
+$padding: 1em;
+$margin: 1em;
+$line-height: 2em;
+$base-font: 1.15em;
