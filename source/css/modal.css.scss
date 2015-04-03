@@ -5,9 +5,8 @@
   // border: 3px double #f00;
   margin: 0em auto;
   box-shadow: grey 4px 4px 10px;
-  top: 15em;
+  top: 11em;
   // z-index: 200;
-
 }
 
 #popOverImg img {
@@ -21,11 +20,11 @@
   position: absolute;
   // width: 150px;
   // line-height: 22px;
-  border: 1px solid transparentize(white,.85);
+  border: 1px solid transparentize(white,0);
   // bottom: 5px;
   top: 1em;
   right: 1em;
-  color: transparentize(white,.5);
+  color: transparentize(white,0);
   // left: 50%;
   // margin-left: -76px;
   text-align: center;
@@ -35,11 +34,13 @@
   width: 1.8em;
   line-height: 1.8em;
   padding-top: 0em;
-  font-family: Register;
+  font-family: RegisterBold;
+  font-weight: bolder;
   &:hover {
     color: white;
     // color: darken(white,25);
-    background: transparentize(white,.85);
+    background: transparentize($purple,.0);
+    border: 1px solid transparentize($purple,0);
   }
 }
 
